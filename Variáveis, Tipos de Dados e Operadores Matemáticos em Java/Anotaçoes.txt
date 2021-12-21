@@ -1,0 +1,4 @@
+Além das necessidades básicas dos tipos de dados em Java.
+
+O casting serve para determinar situaçoes de realizar conversoes de informações de dados. Entender os termos de UpCast e DownCast.
+e dizer o destino no DownCast, diferente do UpCast.

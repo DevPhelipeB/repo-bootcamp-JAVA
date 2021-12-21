@@ -1,0 +1,5 @@
+- Debug as > 
+
+- Muda o painel da IDE para o modo Debug.
+
+- Com isso posso navegar nos métodos de diversas classes afim de mitigar possiveis falhas.

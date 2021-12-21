@@ -1,0 +1,11 @@
+Java possui um conjunto de ferramentas para se desenvolver programas baseados nele, que são conhecidos como (JDK) java development kit.
+
+No aprendizado desta etapa, ficou claro a execução do JDK e a relação com o arquivo .class, através do comando javac para execução do programa e o comportamento do processo. 
+
+- Aprendendo instalar e configurar as IDEs tanto para sistema com base em linux e windows.
+
+- Importância de fazer escolhas com base na melhor performace para desenvolvimento.
+
+- Necessidade de uma configuração adequada conforme finalidade.
+
+- Entendendo a estrutura do "src".

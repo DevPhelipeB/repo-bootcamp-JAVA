@@ -1,0 +1,14 @@
+Op. Relacional observações:
+Nem todo operador relacional pode ser aplicado há qualquer tipo de dado. exemplo: true > false não tem sentido, e nem determina se uma String é maior que outra String. O char ja é possivel determinar tamanho por ser identificado internamente como um código númerico.
+
+Op. Lógico observações:
+Tipos: Conjunção &&/Disjunção ||/Disjunção Exclusiva ^/Negação !
+Estabelecer boas práticas e pensar na manutenção do código, sabendo utilizar sem "poluir" o programa.
+Normalmente utilizados dentro de estruturas de controle de fluxo.
+
+Controle de fluxo observações: 
+Decisão / Repetição / Interrupção
+
+
+Blocos observações:
+São um grupo de códigos nos quais trabalham em conjunto para executar uma operação.
